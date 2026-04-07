@@ -41,13 +41,24 @@
 54.174.128.23 spotifycdn.com
 
 35.186.224.24 spotify.com
+35.186.224.24 aet.spotify.com
 35.186.224.24 api.spotify.com
+35.186.224.24 appresolve.spotify.com
 35.186.224.24 accounts.spotify.com
 35.186.224.24 aet.spotify.com
 35.186.224.26 gew1-spclient.spotify.com
 35.186.224.24 login5.spotify.com
+35.186.224.24 api-partner.spotify.com
+35.186.224.24 spclient.wg.spotify.com
+35.186.224.26 gew1-spclient.spotify.com
+104.199.65.9 ap-gew1.spotify.com
+2.21.64.166 encore.scdn.co
+35.186.224.24 login.app.spotify.com
+35.186.224.24 xpui.app.spotify.com
 199.232.59.42 open.spotify.com
 199.232.59.42 www.spotify.com
+199.232.59.42 spotifycdn.com
+199.232.59.42 open.spotify.com
 
 204.12.192.220 gew1-spclient.spotify.com
 204.12.192.220 login5.spotify.com
@@ -797,6 +808,8 @@
 
 45.155.204.190 web.archive.org
 207.241.237.3 web.archive.org
+
+193.233.63.101 итд.com
 
 0.0.0.0 2no.co
 0.0.0.0 apptracer.ru
