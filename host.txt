@@ -17,6 +17,20 @@
 142.54.189.109 accounts.spotify.com
 142.54.189.109 open.spotify.com
 
+77.239.114.0 accounts.scdn.co
+77.239.114.0 accounts.spotify.com
+77.239.114.0 aet.spotify.com
+77.239.114.0 api-partner.spotify.com
+77.239.114.0 api.spotify.com
+77.239.114.0 encore.scdn.co
+77.239.114.0 gew1-dealer.spotify.com
+77.239.114.0 gew1-spclient.spotify.com
+77.239.114.0 login5.spotify.com
+77.239.114.0 open.spotify.com
+77.239.114.0 spclient.wg.spotify.com
+77.239.114.0 www-growth.scdn.co
+77.239.114.0 www.spotify.com
+
 50.7.85.220 spotify.com
 50.7.85.220 api.spotify.com
 50.7.85.220 appresolve.spotify.com
