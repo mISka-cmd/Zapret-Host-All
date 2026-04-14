@@ -1,3 +1,4 @@
+
 142.54.189.109 api.spotify.com
 142.54.189.109 gew1-spclient.spotify.com
 142.54.189.109 appresolve.spotify.com
@@ -192,6 +193,17 @@
 95.182.120.241 onelink.me
 95.182.120.241 snssdk1233.onelink.me
 
+77.239.114.0 tiktok.com
+77.239.114.0 tiktokcdn-eu.com
+77.239.114.0 tiktokcdn.com
+77.239.114.0 tiktokv.com
+77.239.114.0 tiktokv.eu
+77.239.114.0 tiktokw.eu
+77.239.114.0 ttwstatic.com
+77.239.114.0 onelink.me
+77.239.114.0 snssdk1233.onelink.me
+77.239.114.0 www.tiktok.com
+
 2.19.248.159 tiktok.com
 2.19.252.81 www.tiktok.com
 95.100.104.12 tiktokv.com
@@ -219,6 +231,16 @@
 45.155.204.190 windsurf-stable.codeium.com
 45.155.204.190 windsurf.com
 144.31.14.104 windsurf-telemetry.codeium.com
+
+77.239.114.0 codeium.com
+77.239.114.0 inference.codeium.com
+77.239.114.0 marketplace.windsurf.com
+77.239.114.0 server.codeium.com
+77.239.114.0 unleash.codeium.com
+77.239.114.0 web-backend.codeium.com
+77.239.114.0 windsurf-stable.codeium.com
+77.239.114.0 windsurf-telemetry.codeium.com
+77.239.114.0 windsurf.com
 
 45.155.204.190 patreon.com
 45.155.204.190 www.patreon.com
@@ -303,6 +325,23 @@
 
 104.18.32.47 chatgpt.com
 104.18.32.47 www.chatgpt.com
+
+77.239.114.0 ab.chatgpt.com
+77.239.114.0 android.chat.openai.com
+77.239.114.0 api.openai.com
+77.239.114.0 auth.openai.com
+77.239.114.0 auth0.openai.com
+77.239.114.0 cdn.oaistatic.com
+77.239.114.0 chatgpt.com
+77.239.114.0 files.oaiusercontent.com
+77.239.114.0 ios.chat.openai.com
+77.239.114.0 operator.chatgpt.com
+77.239.114.0 platform.openai.com
+77.239.114.0 sora.chatgpt.com
+77.239.114.0 sora.com
+77.239.114.0 tcr9i.chat.openai.com
+77.239.114.0 videos.openai.com
+77.239.114.0 webrtc.chatgpt.com
 
 192.178.223.132 yt3.ggpht.com
 142.250.117.132 yt4.ggpht.com
@@ -435,6 +474,9 @@
 172.67.130.193 soundcloudforartists.com
 18.165.242.121 w.soundcloud.com
 108.138.233.115 sndcdn.com
+
+172.66.160.235 e621.net
+104.20.43.5 rule34.xxx
 
 64.188.88.88 bonday.xyz
 166.0.0.0 bonday.xyz
@@ -703,6 +745,12 @@
 45.155.204.190 assets.grok.com
 45.155.204.190 grok.com
 
+77.239.114.0 account.jetbrains.com
+77.239.114.0 api.jetbrains.ai
+77.239.114.0 datalore.jetbrains.com
+77.239.114.0 download.jetbrains.com
+77.239.114.0 plugins.jetbrains.com
+
 104.18.19.80 accounts.x.ai
 104.18.28.234 assets.grok.com
 104.18.29.234 grok.com
@@ -714,6 +762,14 @@
 45.155.204.190 xgpuweb.gssv-play-prod.xboxlive.com
 45.155.204.190 xgpuwebf2p.gssv-play-prod.xboxlive.com
 45.155.204.190 xsts.auth.xboxlive.com
+
+77.239.114.0 copilot.microsoft.com
+77.239.114.0 edgeservices.bing.com
+77.239.114.0 rewards.bing.com
+77.239.114.0 sydney.bing.com
+77.239.114.0 xgpuweb.gssv-play-prod.xboxlive.com
+77.239.114.0 xgpuwebf2p.gssv-play-prod.xboxlive.com
+77.239.114.0 xsts.auth.xboxlive.com
 
 104.18.22.222 copilot.microsoft.com
 2.19.248.30 edgeservices.bing.com
@@ -786,9 +842,11 @@
 35.223.238.178 windsurf-telemetry.codeium.com
 
 45.155.204.190 developer.nvidia.com
+77.239.114.0 developer.nvidia.com
 2.19.248.139 developer.nvidia.com
 
 45.155.204.190 www.intel.com
+77.239.114.0 www.intel.com
 2.22.102.113 www.intel.com
 
 157.240.245.174 b.i.instagram.com
@@ -825,6 +883,40 @@
 193.233.63.101 итд.com
 
 76.76.21.21 cursor.com
+
+77.239.114.0 accounts.supercell.com
+77.239.114.0 cdn.id.supercell.com
+77.239.114.0 clashofclans.inbox.supercell.com
+77.239.114.0 game-assets.brawlstarsgame.com
+77.239.114.0 game-assets.clashofclans.com
+77.239.114.0 game-assets.clashroyaleapp.com
+77.239.114.0 security.id.supercell.com
+77.239.114.0 store.supercell.com
+
+95.182.120.241 robinfrontend-pa.googleapis.com
+103.27.157.38 aisandbox-pa.googleapis.com
+103.27.157.38 aistudio.google.com
+103.27.157.38 aitestkitchen.withgoogle.com
+103.27.157.38 alkalimakersuite-pa.clients6.google.com
+103.27.157.38 assistant-s3-pa.googleapis.com
+103.27.157.38 corp.google.com
+103.27.157.38 gemini.google.com
+103.27.157.38 generativelanguage.googleapis.com
+103.27.157.38 google-analytics.com
+103.27.157.38 google.com
+103.27.157.38 googleusercontent.com
+103.27.157.38 jules.google.com
+103.27.157.38 labs.google
+103.27.157.38 notebooklm.google.com
+103.27.157.38 o.pki.goog
+103.27.157.38 proactivebackend-pa.googleapis.com
+103.27.157.38 stitch.withgoogle.com
+103.27.157.38 webchannel-alkalimakersuite-pa.clients6.google.com
+103.27.157.38 withgoogle.com
+
+104.17.148.83 mediafire.com
+104.17.148.83 www.mediafire.com
+205.196.123.27 download1339.mediafire.com
 
 0.0.0.0 2no.co
 0.0.0.0 apptracer.ru
