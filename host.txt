@@ -1,4 +1,6 @@
 
+104.26.14.196 gamebanana.com
+
 142.54.189.109 api.spotify.com
 142.54.189.109 gew1-spclient.spotify.com
 142.54.189.109 appresolve.spotify.com
