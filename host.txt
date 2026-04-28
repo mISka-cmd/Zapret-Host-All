@@ -1,6 +1,4 @@
 
-104.26.14.196 gamebanana.com
-
 142.54.189.109 api.spotify.com
 142.54.189.109 gew1-spclient.spotify.com
 142.54.189.109 appresolve.spotify.com
@@ -19,75 +17,6 @@
 142.54.189.109 www.spotify.com
 142.54.189.109 accounts.spotify.com
 142.54.189.109 open.spotify.com
-
-45.155.204.190 accounts.scdn.co 
-95.182.120.241 accounts.scdn.co 
-45.155.204.190 accounts.spotify.com 
-95.182.120.241 accounts.spotify.com 
-45.155.204.190 aet.spotify.com 
-95.182.120.241 aet.spotify.com 
-45.155.204.190 api-partner.spotify.com 
-95.182.120.241 api-partner.spotify.com 
-45.155.204.190 api.spotify.com 
-95.182.120.241 api.spotify.com 
-45.155.204.190 audio-fa-tls13.spotifycdn.com 
-95.182.120.241 audio-fa-tls13.spotifycdn.com 
-45.155.204.190 audio-fa.scdn.co 
-95.182.120.241 audio-fa.scdn.co 
-45.155.204.190 canvaz.scdn.co 
-95.182.120.241 canvaz.scdn.co 
-45.155.204.190 charts-images.scdn.co 
-95.182.120.241 charts-images.scdn.co 
-45.155.204.190 concerts.spotifycdn.com 
-95.182.120.241 concerts.spotifycdn.com 
-45.155.204.190 encore.scdn.co 
-95.182.120.241 encore.scdn.co 
-45.155.204.190 gew1-dealer.spotify.com 
-95.182.120.241 gew1-dealer.spotify.com 
-45.155.204.190 gew1-spclient.spotify.com 
-95.182.120.241 gew1-spclient.spotify.com 
-45.155.204.190 heads-fa-tls13.spotifycdn.com 
-95.182.120.241 heads-fa-tls13.spotifycdn.com 
-45.155.204.190 i-lo.scdn.co 
-95.182.120.241 i-lo.scdn.co 
-45.155.204.190 i.scdn.co 
-95.182.120.241 i.scdn.co 
-45.155.204.190 image-cdn-fa.spotifycdn.com 
-95.182.120.241 image-cdn-fa.spotifycdn.com 
-45.155.204.190 login5.spotify.com 
-95.182.120.241 login5.spotify.com 
-45.155.204.190 mrkt.spotifycdn.com 
-95.182.120.241 mrkt.spotifycdn.com 
-45.155.204.190 open-exp.spotifycdn.com 
-95.182.120.241 open-exp.spotifycdn.com 
-45.155.204.190 open.spotify.com 
-95.182.120.241 open.spotify.com 
-45.155.204.190 pickasso.spotifycdn.com 
-95.182.120.241 pickasso.spotifycdn.com 
-45.155.204.190 podz-content.spotifycdn.com 
-95.182.120.241 podz-content.spotifycdn.com 
-45.155.204.190 seed-mix-image.spotifycdn.com 
-95.182.120.241 seed-mix-image.spotifycdn.com 
-45.155.204.190 seektables.scdn.co 
-95.182.120.241 seektables.scdn.co 
-45.155.204.190 spclient.wg.spotify.com 
-95.182.120.241 spclient.wg.spotify.com 
-45.155.204.190 spotifycdn.com 
-95.182.120.241 spotifycdn.com 
-45.155.204.190 spotifycdn.net 
-95.182.120.241 spotifycdn.net 
-45.155.204.190 t.scdn.co 
-95.182.120.241 t.scdn.co 
-45.155.204.190 thisis-images.spotifycdn.com 
-95.182.120.241 thisis-images.spotifycdn.com 
-45.155.204.190 wap.spotifycdn.com 
-95.182.120.241 wap.spotifycdn.com 
-45.155.204.190 web-sdk-assets.spotifycdn.com 
-95.182.120.241 web-sdk-assets.spotifycdn.com 
-45.155.204.190 www-growth.scdn.co 
-95.182.120.241 www-growth.scdn.co 
-45.155.204.190 www.spotify.com 
-95.182.120.241 www.spotify.com
 
 77.239.114.0 accounts.scdn.co
 77.239.114.0 accounts.spotify.com
@@ -988,6 +917,8 @@
 104.17.148.83 mediafire.com
 104.17.148.83 www.mediafire.com
 205.196.123.27 download1339.mediafire.com
+
+216.150.1.65 lemonade.gg
 
 0.0.0.0 2no.co
 0.0.0.0 apptracer.ru
