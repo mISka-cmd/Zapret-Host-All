@@ -14,3 +14,5 @@ C:/Windows/System32/drivers/etc/
 zapret: https://github.com/flowseal/zapret-discord-youtube
 
 AntiZapret/hosts: https://github.com/pumPCin/AntiZapret/blob/main/hosts
+
+Пост с вязан с спотефаем: https://github.com/Flowseal/zapret-discord-youtube/discussions/5552#discussioncomment-17047945
