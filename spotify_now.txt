@@ -1,0 +1,13 @@
+45.155.204.190 gew1-spclient.spotify.com
+45.155.204.190 login5.spotify.com
+45.155.204.190 spotify.com
+45.155.204.190 api.spotify.com
+45.155.204.190 appresolve.spotify.com
+45.155.204.190 accounts.spotify.com
+45.155.204.190 aet.spotify.com
+45.155.204.190 open.spotify.com
+45.155.204.190 spotifycdn.com
+45.155.204.190 www.spotify.com
+45.155.204.190 spclient.wg.spotify.com
+45.155.204.190 gew1-dealer.spotify.com
+45.155.204.190 api-partner.spotify.com
